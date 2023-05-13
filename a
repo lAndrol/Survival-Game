@@ -1,0 +1,23 @@
+[33mcommit fb3586c92010367c369db527ad0471c2013b1df2[m[33m ([m[1;36mHEAD -> [m[1;32mgenco[m[33m)[m
+Author: Erman Genco Seçilen <ermangenco@hotmail.com>
+Date:   Sat May 13 21:25:26 2023 +0300
+
+    Character base class
+
+[33mcommit a2a9c0720206f992780916df42e27a855b174a8f[m[33m ([m[1;31morigin/genco[m[33m)[m
+Author: Erman Genco Seçilen <ermangenco@hotmail.com>
+Date:   Thu May 11 22:30:56 2023 +0300
+
+    Score board
+
+[33mcommit 2dfd574ec670c40eddd22d0586181031ac503952[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Erman Genco Seçilen <ermangenco@hotmail.com>
+Date:   Sun Mar 26 21:28:39 2023 +0300
+
+    Right click controller and menu
+
+[33mcommit e62fb383b683267354db6d11831649c2c89949e5[m
+Author: Erman Genco Seçilen <ermangenco@hotmail.com>
+Date:   Sat Mar 25 14:26:00 2023 +0300
+
+    Initial commit
