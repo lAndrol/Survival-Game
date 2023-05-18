@@ -4,15 +4,8 @@ using UnityEngine;
 
 public class HouseRightClickMenuButtonFunctions : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    House targetHouse;
+    CharacterParty missionParty;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }
