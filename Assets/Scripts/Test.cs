@@ -13,6 +13,7 @@ public class Test : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(1))
         {
+            if (GetClickedObject(out RaycastHit hit))
             if (cube == GetClickedObject(out RaycastHit hit))
             {
                 Debug.Log("objectClicked");
